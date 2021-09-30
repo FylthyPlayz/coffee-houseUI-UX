@@ -1,0 +1,19 @@
+@import url("shop.css");
+
+
+
+.pageHeader {
+  font-style: normal;
+  font-weight: bolder;
+  text-align: center;
+ 
+}
+.list {
+   display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+justify-content: center;
+justify-content: space-evenly;
+
+
+}

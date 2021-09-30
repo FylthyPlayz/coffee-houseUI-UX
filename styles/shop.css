@@ -1,0 +1,15 @@
+.shop{
+    flex-basis: 25%;  /* Make each child element the same width */
+    flex: auto;
+    border: 1px dotted black; 
+    text-align: center;
+    font-style: italic;
+}
+
+.shop__info{
+   display: flex;
+   border: 1px dotted firebrick;
+   flex: auto;
+   justify-content: center;
+   
+}
